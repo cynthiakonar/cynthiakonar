@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cynthiakonar&label=Profile%20views&color=ffbe33&style=plastic" alt="cynthiakonar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cynthiakonar" alt="cynthiakonar" /></a> </p>
-
 - 🔭 I’m currently working on [CATTP](https://github.com/cynthiakonar/CATTP)
 
 - 🌱 I’m currently learning **Flutter, Dart, JavaScript, NodeJS**
@@ -34,7 +32,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/cynthiakonar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="cynthiakonar" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cynthiakonar&show_icons=true&title_color=ffbe33&text_color=ffffff&locale=en&layout=compact" alt="cynthiakonar" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cynthiakonar&show_icons=true&theme=dark&title_color=ffbe33&text_color=ffffff&locale=en&layout=compact" alt="cynthiakonar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cynthiakonar&show_icons=true&theme=dark&title_color=ffbe33&text_color=ffffff&locale=en" alt="cynthiakonar" /></p>
 
