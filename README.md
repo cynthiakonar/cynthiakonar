@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **cynthia.konar@gmail.com**
 
-- ⚡ Fun fact **I am a workaholic and a foodie**
+- ⚡ Fun fact **I LOVE potatoes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
