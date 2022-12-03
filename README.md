@@ -7,10 +7,6 @@
 
 - 🌱 I’m currently learning **Flutter, Dart, JavaScript, NodeJS**
 
-- 👯 I’m looking to collaborate on [CATTP](https://github.com/cynthiakonar/CATTP)
-
-- 👨‍💻 All of my projects are available at [https://github.com/cynthiakonar](https://github.com/cynthiakonar)
-
 - 💬 Ask me about **anything related to Mobile App Dev.**
 
 - 📫 How to reach me **cynthia.konar@gmail.com**
