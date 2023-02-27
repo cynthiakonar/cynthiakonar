@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cynthiakonar&label=Profile%20views&color=ffbe33&style=plastic" alt="cynthiakonar" /> </p>
 
-- 🔭 I’m currently working on [CATTP](https://github.com/cynthiakonar/CATTP)
+- 🔭 I’m currently working on [Live Streaming App]([https://github.com/cynthiakonar/CATTP](https://github.com/cynthiakonar/Live-Streaming-App-Flutter-Agora)) using Flutter & Agora
 
 - 🌱 I’m currently learning **Flutter, Dart, JavaScript, NodeJS**
 
