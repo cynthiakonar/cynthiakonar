@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cynthia</h1>
-<h3 align="center">A passionate flutter developer from Chennai, India</h3>
+<h3 align="center">A Passionate Application Developer from Chennai, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cynthiakonar&label=Profile%20views&color=ffbe33&style=plastic" alt="cynthiakonar" /> </p>
 
